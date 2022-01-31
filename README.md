@@ -1,11 +1,11 @@
-### Hello! 🌸💻
+### Hello! 🌸
 
 
 My name is Flavia Tani Alves 
 
-I'm Brazilian.
 
-- ❤️ I'm a software development student
+
+- 💻 I'm a software development student
 
 
 
