@@ -1,11 +1,8 @@
 ### Hello! 🌸
 
 
-My name is Flavia Tani Alves 
 
-
-
-- 💻 I'm a software development student
+- 💻 Sou estudante de Análise e desenvolvimento de sistemas
 
 
 
